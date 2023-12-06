@@ -96,7 +96,7 @@ while True:
     elif choice == 4: 
         genresearch()
     elif choice == 5: 
-        print("Thank you for visitinG, SEE YOU AGAIN!")
+        print("Thank you for visiting, SEE YOU AGAIN!")
         break
 
     else: 
